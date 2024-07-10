@@ -171,3 +171,89 @@ letter-spacing: 0%;
 opacity: 0.7;
 
 }
+.target{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 40px;
+    gap: 24px;
+}
+.skill-head{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+}
+/* skill-para shared */
+.skill-para{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+}
+.skill-1{
+
+    padding: 40px;
+    border-radius: 16px;
+    background: rgba(255, 76, 30, 0.05);
+}
+.skill-2{
+
+    padding: 40px;
+    border-radius: 16px;
+    background: rgba(0, 76, 232, 0.05);
+}
+.skill-3{
+ 
+    padding: 40px;
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
+}
+/* Last page */
+.support{
+     
+    background-image: url(/resource/handshake.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 1040px;
+  height: 314px;
+  margin: 0 auto;
+  border-radius: 16px;
+  
+ 
+    
+}
+.support-head{
+      padding-top: 64px;
+    color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.support-para{
+    color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    opacity: 0.7;}
+ 
+    .input{
+        width: 940px;
+        display: flex;
+        margin: 0 auto;
+    }
+ .input-txt{
+    width: 100%;
+ }
+ 
