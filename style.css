@@ -291,4 +291,22 @@ text-align: left;
     letter-spacing: 0%;
     text-align: center;
  }
- 
+ /* Footer */
+ .foot{
+    display: flex;
+    padding-top: 79px;
+    padding: 79px 150px 32px 150px;
+    border-radius: 16px;
+    background: rgba(0, 6, 19, 0.03);
+    justify-content:space-between;
+    
+ }
+ .foot-head{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+ }
